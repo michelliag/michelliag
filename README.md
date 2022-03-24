@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michelliag
-- 👀 I’m interested in cybersecurity and web development
-- 🌱 I’m currently learning things I like (JavaScript, fundamental of cybersecurity)
+- 👀 I’m interested in cybersecurity, web and mobile development
+- 🌱 I’m currently learning things I like (JavaScript, fundamental of cybersecurity, SwiftUI)
 - 💞️ I’m looking to collaborate on any projects that I am capable of doing!
 - 📫 How to reach me ---> find me on linkedIn: Michellia Ghassani Herman
 
